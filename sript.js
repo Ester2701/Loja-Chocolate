@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Sample product data
     const products = [
-        { id: 1, name: 'Dark Chocolate Bar', price: 25.00, image: 'https://via.placeholder.com/300x200/5A2C18/FFFFFF?text=Dark+Chocolate', description: 'Rich and intense, 70% cocoa.' },
+        { id: 1, chocolate dark: 'Dark Chocolate Bar', price: 25.00, image:'a', description: 'Rich and intense, 70% cocoa.' },
         { id: 2, name: 'Milk Chocolate Truffles', price: 35.00, image: 'https://via.placeholder.com/300x200/8B4513/FFFFFF?text=Milk+Truffles', description: 'Smooth and creamy, melts in your mouth.' },
         { id: 3, name: 'White Chocolate Bites', price: 28.00, image: 'https://via.placeholder.com/300x200/D2B48C/FFFFFF?text=White+Chocolate', description: 'Sweet and delicate, with a hint of vanilla.' },
         { id: 4, name: 'Assorted Pralines', price: 45.00, image: 'https://via.placeholder.com/300x200/6B4226/FFFFFF?text=Assorted+Pralines', description: 'A delightful mix of our best pralines.' },
